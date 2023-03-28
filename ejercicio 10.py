@@ -1,4 +1,4 @@
-sueldo = float(input("Ingrese su sueldo mensual: "))
+sue = float(input("Ingrese el sueldo mensual: "))
 
 if sue <= 472:
     impuesto = 0
