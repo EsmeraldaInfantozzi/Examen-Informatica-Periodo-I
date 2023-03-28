@@ -1,0 +1,5 @@
+print("Tarifa a pagar por kW")
+entrada = float(input("Ingresa la cantidad de kW consumida en su hogar: "))
+resultado = float(entrada*1.05)
+print(resultado, "USD")
+print("page lo antes posible o le quitamos su casa")
